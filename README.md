@@ -1,5 +1,5 @@
 👋 Hi, I’m @satyarthtoshniwal (Satyarth Toshniwal)
-###👀 I'm interested in coding...
+	###👀 I'm interested in coding...
 
 	💻 I’m a Full Stack Web Developer, aspiring to become a Software Developer.  
 	🌱 I’m currently, pursuing my BCA from Institute of Management and Entrepreneurship Development BVDU Pune👩🏻‍🎓.  
